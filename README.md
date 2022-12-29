@@ -1,6 +1,6 @@
 ## Project Overview
 
-Continuously monitors and detects pedestrians from a [livestream](https://www.youtube.com/watch?v=1EiC9bvVGnk) of a town square in Jackson Hole, Wyoming.
+Continuously monitors and detects pedestrians on the crosswalks from a [livestream](https://www.youtube.com/watch?v=1EiC9bvVGnk) of a town square in Jackson Hole, Wyoming.
 
 ## Key requirements met
 * UI should minimally display the live image feed including options to create an alert
