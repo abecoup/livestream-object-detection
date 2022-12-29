@@ -1,0 +1,15 @@
+/**
+ * Author(s): Henry Keena
+ * Date: 
+ * Release: 0.1
+ * Description: Custom CSS Styles for EC2 Frontend
+ * 
+ */
+
+ .page-context {
+
+}
+
+#livestream {
+    background-image: url("../img/jacksonhole.webp");
+}
